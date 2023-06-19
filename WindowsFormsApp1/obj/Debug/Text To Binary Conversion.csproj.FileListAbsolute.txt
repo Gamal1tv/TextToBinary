@@ -1,0 +1,11 @@
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\obj\Debug\Text To Binary Conversion.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\obj\Debug\Text To Binary Conversion.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\obj\Debug\Text To Binary Conversion.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\obj\Debug\Text To Binary Conversion.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Text To Binary Converter\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
